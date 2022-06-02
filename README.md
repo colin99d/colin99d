@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on open source finance tools
 - 🌱 I’m currently learning vim
-- 👯 I’m looking to collaborate on [Gamestonk Terminal](https://github.com/GamestonkTerminal/GamestonkTerminal)
+- 👯 I’m looking to collaborate on [OpenBB Terminal](https://github.com/GamestonkTerminal/GamestonkTerminal)
 - 📫 How to reach me: colin99delahunty@gmail.com
 
 <!--
