@@ -3,7 +3,7 @@
 ![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=colin99d&show_icons=true)
 
 - 🔭 I’m currently working on open source finance tools
-- 🌱 I’m currently learning vim
+- 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on [OpenBB Terminal](https://github.com/GamestonkTerminal/GamestonkTerminal)
 - 📫 How to reach me: colin99delahunty@gmail.com
 
