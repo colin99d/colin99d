@@ -2,7 +2,7 @@
 
 ![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=colin99d&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colin99d)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colin99d)
 
 - 🔭 I’m currently working on open source finance tools
 - 🌱 I’m currently learning Rust
